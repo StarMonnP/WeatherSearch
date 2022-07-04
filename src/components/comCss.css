@@ -1,0 +1,47 @@
+.t_bar {
+  background-color: rgb(99, 176, 235);
+}
+
+.search_bar {
+  margin-left: 40%;
+  margin-top: 5%;
+}
+
+.text_field {
+  background-color: rgb(118, 181, 230);
+}
+
+.dis_view {
+  display: flex;
+  flex-direction: column;
+}
+
+.display_row_1 {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  margin: 4% 20% 0 35%;
+}
+
+.card_view_2 {
+  margin-left: 10%;
+  background-color: rgb(118, 181, 230);
+}
+
+.current_temp {
+  padding-top: 15%;
+}
+
+.temp_range {
+  padding-top: 5%;
+}
+
+.card_view_3 {
+  margin: 3% 34.3% 5% 35%;
+  background-color: rgb(118, 181, 230);
+}
+
+.Forecase {
+  margin: 0% 15% 0% 15%;
+  padding-bottom: 5%;
+}
