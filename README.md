@@ -20,4 +20,4 @@ to run
 ## Use of the Project
   Simply enter the name for the city that you want to search and select the match result from input field.
 ## Example from heroku
-https://weather-search-01.herokuapp.com/(https://weather-search-01.herokuapp.com/
+https://weather-search-01.herokuapp.com/
